@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "433652859502",
+    "firebase_url": "https://primaapp-ac0e4.firebaseio.com",
+    "project_id": "primaapp-ac0e4",
+    "storage_bucket": "primaapp-ac0e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433652859502:android:27396742abd98aac51dc7f",
+        "android_client_info": {
+          "package_name": "com.matiafazio.prima_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433652859502-itqa82bc4s8i5o63dsi5ajkcu5g9vp65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR8Zanu5bMzXpp2e_mGViTfcvnjzVGzvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433652859502-itqa82bc4s8i5o63dsi5ajkcu5g9vp65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "433652859502-gf39bj48i9h0lnm1j6msconpo7pl03nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matiafazio.primaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
